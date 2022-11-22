@@ -18,10 +18,10 @@
 
 
 <!-- ## Team Lead -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Team Lead:  Nallamala Akshay</h2> 
-```python
+
+<!-- ```python
  1 Nallamala Akshay
-```
+``` -->
 
 <!-- ## Team Members -->
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Team Members: </h2> 
@@ -33,5 +33,7 @@
 2 Naveen.V
 
 3 Mohammed Aslam.M
+
+4 Nallamala Akshay
 ```
 
