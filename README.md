@@ -22,7 +22,8 @@
 Nallamala Akshay
 ```
 
-## Team Members
+<!-- ## Team Members -->
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Team Members: </h2> 
 
 ```python
 
